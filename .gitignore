@@ -1,8 +1,21 @@
-/clase23.zip
-/clase24.zip
-/clase36.zip
-/clase4.zip
-/clase5.zip
-/clase6.zip
-/clase7.zip
-/clase8.zip
+#Lista de archivos y carpetas ignoradas
+
+#Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Archivos
+*.zip
+
+
+# Carpetas
